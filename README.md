@@ -6,4 +6,7 @@
 - **Tests**: `test_the_wall.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7)
 
-**
+**"Exes and Ohs" 7kyu**
+- **Module**: `xo.py`
+- **Tests**: `test_xo.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7)
