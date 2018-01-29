@@ -31,4 +31,14 @@
 - **Tests**: `test_numvowels.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/vowel-count/train/python)
 
+**"Friend or Foe" 7kyu (2 pts)**
+- **Module**: `friendfoe.py`
+- **Tests**: `test_friendfoe.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/friend-or-foe/train/python)
+
+**"Creating a string for an array of objects from a set of words" 6kyu (4 pts)**
+- **Module**: `objects.py`
+- **Tests**: `test_objects.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/creating-a-string-for-an-array-of-objects-from-a-set-of-words/train/python)
+
 
