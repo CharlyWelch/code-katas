@@ -26,5 +26,9 @@
 - **Tests**: `test_highlow.py`
 - **URL**: [challenge url](http://www.codewars.com/kata/554b4ac871d6813a03000035/train/python)
 
+**"Vowel Count" 7kyu (2 pts)**
+- **Module**: `numvowels.py`
+- **Tests**: `test_numvowels.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/vowel-count/train/python)
 
 
