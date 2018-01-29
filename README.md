@@ -16,10 +16,19 @@
 - **Tests**: `test_beginner_sum.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/55f2b110f61eb01779000053)
 
-**" Descending Order " 7kyu (2 pts)**
+**"Descending Order" 7kyu (2 pts)**
 - **Module**: `descending.py`
 - **Tests**: `test_descending.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/python)
 
+**"Highest and Lowest" 7kyu (2 pts)**
+- **Module**: `highlow.py`
+- **Tests**: `test_highlow.py`
+- **URL**: [challenge url](http://www.codewars.com/kata/554b4ac871d6813a03000035/train/python)
+
+**"Vowel Count" 7kyu (2 pts)**
+- **Module**: `numvowels.py`
+- **Tests**: `test_numvowels.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/vowel-count/train/python)
 
 
