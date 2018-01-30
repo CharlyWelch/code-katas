@@ -2,11 +2,16 @@ from the_wall import who_is_paying
 import pytest
 import unittest 
 
-""" I need to rewrite these tests using pytest, I guess? """
-Test.describe("Basic tests")
-Test.assert_equals(who_is_paying("Mexico"),["Mexico", "Me"])
-Test.assert_equals(who_is_paying("Melania"),["Melania", "Me"])
-Test.assert_equals(who_is_paying("Melissa"),["Melissa", "Me"])
-Test.assert_equals(who_is_paying("Me"),["Me"])
-Test.assert_equals(who_is_paying(""), [""])
-Test.assert_equals(who_is_paying("I"), ["I"])
+class TestSum(unittest.TestCase):
+    def test_1(self):
+        self.assertEqual(who_is_paying("Mexico"),["Mexico", "Me"])
+    def test_2(self):
+        self.assertEqual(who_is_paying("Melania"),["Melania", "Me"])
+    def test_3(self):
+        self.assertEqual(who_is_paying("Melissa"),["Melissa", "Me"])
+    def test_4(self):
+        self.assertEqual(who_is_paying("Me"),["Me"])
+    def test_5(self):
+        self.assertEqual(who_is_paying(""), [""])
+    def test_6(self):
+        self.assertEqual(who_is_paying("I"), ["I"])
