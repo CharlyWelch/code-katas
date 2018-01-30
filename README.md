@@ -1,6 +1,7 @@
-# Completed Katas for Day of Code
-01-27-2018
+# Completed Katas on Codewars
 
+01-27-2018
+## For day-of-code challenge:
 **"Who is going to pay for the wall?" 8 kyu (1 pt)**
 - **Module**: `the_wall.py`
 - **Tests**: `test_the_wall.py`
@@ -40,5 +41,13 @@
 - **Module**: `objects.py`
 - **Tests**: `test_objects.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/creating-a-string-for-an-array-of-objects-from-a-set-of-words/train/python)
+
+## Sum of first Nth terms of a series
+01-30-2018
+
+**"Sum of the first nth term of Series" 7kyu**
+- **Module**: `sumnth.py`
+- **Tests**: `test_sumnth.py`
+- **URL**: [challenge url](http://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/python)
 
 
